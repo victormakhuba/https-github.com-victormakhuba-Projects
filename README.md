@@ -25,4 +25,4 @@ Feel free to explore the Jupyter Notebooks to see detailed exploratory data anal
 To run this project, ensure you have Python and the necessary libraries installed. Clone the repository, navigate to the directory containing the project files, and run the Jupyter Notebooks.
 
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+Not licensed
