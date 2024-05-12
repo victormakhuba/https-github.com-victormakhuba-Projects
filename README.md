@@ -17,7 +17,7 @@ This project focuses on the detailed analysis of supermarket sales data to uncov
 - Jupyter Notebook for interactive coding sessions
 
 ## Repository Link
-[Supermarket Sales Analysis on GitHub](https://github.com/victormakhuba/Supermarket-Sales.ipynb)
+[Supermarket-Sales.ipynb](https://github.com/victormakhuba/Supermarket-Sales.ipynb)
 
 Feel free to explore the Jupyter Notebooks to see detailed exploratory data analysis and the methodologies applied in this project.
 
